@@ -9,12 +9,12 @@ hr {
 
 #important #winning {
   background-color: red;
-  border: 1px solid black;
+  border: 10px solid rgb(20, 20, 20);
 }
 
 #important .better {
   background-color: gray;
-  border: none !important;
+ 
 }
 
 #important p {
